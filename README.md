@@ -1,8 +1,9 @@
 - 👋 Hi, everyone! I`m @Florieta!
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C#, JavaScript and T-SQL @SoftUni.
-- ⚡ Fun fact: I like reading books.
-- 
+- 👀 I’m interested in software developing.
+- 🌱 I’m currently learning React @SoftUni.
+- ⚡ I am working as Associate Software Developer @Amdaris.
+- I have experience with C#, JavaScript and T-SQL.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/florieta-pencheva-15713022b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florieta-pencheva-15713022b/" height="30" width="40" /></a>
