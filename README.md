@@ -1,8 +1,9 @@
 - 👋 Hi, everyone! I`m @Florieta!
 - 👀 I’m interested in software developing.
-- 🌱 I’m currently learning React @SoftUni.
-- ⚡ I am working as Associate Software Developer @Amdaris.
-- I have experience with C#, JavaScript and T-SQL.
+- 🌱 I’m currently learning Angular @SoftUni.
+- ⚡ I am working as Software Developer @Amdaris(an Insight company).
+- I have experience in C#/.Net, JavaScript, React, TypeScript, SQL and Azure.
+- I have recently got my first Microsoft certification - Azure Fundamentals.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
